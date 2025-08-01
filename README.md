@@ -29,5 +29,5 @@ Your primary objective is to uncover the **truth behind the case** by:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/Ashwood_game.git
+   git clone (https://github.com/Prototype1324/Ashwood_game.git)
    cd Ashwood_game
