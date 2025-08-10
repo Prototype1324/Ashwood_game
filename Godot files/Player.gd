@@ -25,11 +25,10 @@ func _physics_process(delta):
 	# Move and slide
 	velocity = move_and_slide(velocity, Vector2.UP)
 
-# Get mouse position in world space
-var mouse_pos = get_global_mouse_position()
+func _process(delta):
+	var mouse_pos = get_global_mouse_position()
+	if mouse_pos.x < global_position.x:
+		$AnimatedSprite.flip_h = true
+	else:
+		$AnimatedSprite.flip_h = false
 
-# If mouse is left of player, flip sprite
-if mouse_pos.x < global_position.x:
-	$AnimatedSpriteflip_h = true
-else:
-	$AnimatedSprite.flip_h = false
