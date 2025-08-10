@@ -11,7 +11,8 @@ config_version=4
 [application]
 
 config/name="Ashwood"
-config/icon="res://icon.png"
+run/main_scene="res://Level_test.tscn"
+config/icon="res://images/icon.png"
 
 [gui]
 
