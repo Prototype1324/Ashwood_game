@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pixelart_starfield_corona.png-f41bf7467ff842d7f49a084be0414c74.stex"
+path="res://.import/space_tile.png-f6ec6b04810b822ff711ae0b0db4f114.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/pixelart_starfield_corona.png"
-dest_files=[ "res://.import/pixelart_starfield_corona.png-f41bf7467ff842d7f49a084be0414c74.stex" ]
+source_file="res://images/tiles/space_tile.png"
+dest_files=[ "res://.import/space_tile.png-f6ec6b04810b822ff711ae0b0db4f114.stex" ]
 
 [params]
 

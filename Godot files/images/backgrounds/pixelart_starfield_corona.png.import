@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pixelart_starfield.png-237eeb57d49ba5320fcf92195ccd3a99.stex"
+path="res://.import/pixelart_starfield_corona.png-d849f190e6ea73a0e61146a6fb337c50.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/pixelart_starfield.png"
-dest_files=[ "res://.import/pixelart_starfield.png-237eeb57d49ba5320fcf92195ccd3a99.stex" ]
+source_file="res://images/backgrounds/pixelart_starfield_corona.png"
+dest_files=[ "res://.import/pixelart_starfield_corona.png-d849f190e6ea73a0e61146a6fb337c50.stex" ]
 
 [params]
 

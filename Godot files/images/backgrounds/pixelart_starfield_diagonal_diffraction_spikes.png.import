@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/New Piskel.png-5dbe073087590f84f5d1a76ed55326d3.stex"
+path="res://.import/pixelart_starfield_diagonal_diffraction_spikes.png-e5ee94661d961d1f756141b11ca985cc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/New Piskel.png"
-dest_files=[ "res://.import/New Piskel.png-5dbe073087590f84f5d1a76ed55326d3.stex" ]
+source_file="res://images/backgrounds/pixelart_starfield_diagonal_diffraction_spikes.png"
+dest_files=[ "res://.import/pixelart_starfield_diagonal_diffraction_spikes.png-e5ee94661d961d1f756141b11ca985cc.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Bullet.png-770b89aec6ffea34fe978a1ef4009f60.stex"
+path="res://.import/pixelart_starfield.png-3a021bb24f8ede6ecadefad254964fc9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/Bullet.png"
-dest_files=[ "res://.import/Bullet.png-770b89aec6ffea34fe978a1ef4009f60.stex" ]
+source_file="res://images/backgrounds/pixelart_starfield.png"
+dest_files=[ "res://.import/pixelart_starfield.png-3a021bb24f8ede6ecadefad254964fc9.stex" ]
 
 [params]
 
