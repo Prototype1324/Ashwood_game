@@ -1,5 +1,6 @@
+# coffee_shop.py Imports and Initialization
+from Graphics_Main import GraphicsMain
 from colorama import init, Fore, Style
-
 init(autoreset=True)
 
 # =========================
@@ -245,5 +246,5 @@ def main():
     climax()
 
 if __name__ == "__main__":
-    main()
+    GraphicsMain(title="Ashwood: A Lovecraftian Detective Game").run(main)
 
